@@ -1,0 +1,34 @@
+.post {
+    width: 35%;
+    padding: 2dvh;
+}
+.post-header {
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ align-items: center;
+}
+.left-side {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.title{
+    display: flex;
+    flex-direction: column;
+}
+.inside{
+    margin: 0%;
+    padding: 0%;
+}
+.html{
+    font-size: xx-large;
+    margin-right: 1dvh;
+}
+.all{
+    display: flex;
+    justify-content: center;
+}
+.post-icons{
+    font-size: x-large;}
